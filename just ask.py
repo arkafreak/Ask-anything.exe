@@ -1,7 +1,7 @@
 import os
 import csv
 import openai
-openai.api_key = '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'
+openai.api_key = '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'
 model_engine = 'text-davinci-003'
 print("\\\ ENTER WIHOUT TYPING ANYTHING TO EXIT FROM THE TERMINAL //")
 print("\t \t \t \t \\\ ENJOY YOUR TIME HERE //")
