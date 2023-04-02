@@ -1,7 +1,10 @@
 import os
 import csv
 import openai
-openai.api_key = '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'
+
+#use your own openai key from ur openai accout. Just copy paste that key in this key's place.
+
+openai.api_key = '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' 
 model_engine = 'text-davinci-003'
 print("\\\ ENTER WIHOUT TYPING ANYTHING TO EXIT FROM THE TERMINAL //")
 print("\t \t \t \t \\\ ENJOY YOUR TIME HERE //")
